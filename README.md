@@ -10,3 +10,4 @@ Just for fun :)
 * Reaction Time :- https://github.com/quintuspai/Fun-Projects/blob/master/reaction_time.py
 * Tic Tac Toe :- https://github.com/quintuspai/Fun-Projects/blob/master/TicTacToe.py
 * Luhn Algorithm :- https://github.com/quintuspai/Fun-Projects/blob/master/luhn_algo.py
+* Morse Code Encrypter Decrypter:- https://github.com/quintuspai/Fun-Projects/blob/master/morse.py
